@@ -14,3 +14,8 @@ html {
 body h1 {
   color: #623b0c;
 }
+
+ol {
+  display: grid;
+  grid-template-columns: 1rem 1rem 1rem 1rem;
+}
