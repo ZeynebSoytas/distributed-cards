@@ -1,0 +1,16 @@
+html {
+  background-color: #f5f2f0;
+  line-height: 1.5;
+  font-family: 'Denk One', sans-serif;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body h1 {
+  color: #623b0c;
+}
